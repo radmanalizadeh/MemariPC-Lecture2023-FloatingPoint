@@ -10,6 +10,6 @@ Mega - PDF : https://mega.nz/folder/v3ZxxYrQ#lS8TA8oOqvKqM7G7UboDBA
 
 link to lecture video
 
-Aparat: coming soon
+Aparat: https://aparat.com/v/AnDpo
 
-Youtube: coming soon
+Youtube: https://youtu.be/73LdUxxMtNc
