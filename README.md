@@ -3,13 +3,13 @@ my 2023 lecture about floating point in computer engineering
 
 here u can find my lecture files and video links
 
-link files of lecture itself{
+link files of lecture itself
 
 Mega - PDF : https://mega.nz/folder/v3ZxxYrQ#lS8TA8oOqvKqM7G7UboDBA
 
-}
 
-link to lecture video{
+link to lecture video
 
 Aparat: coming soon
+
 Youtube: coming soon
